@@ -40,10 +40,8 @@ No third-party libraries were used — only core Java standard libraries, which 
 
 ## Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [chatgpt](https://chatgpt.com)
+- [Github - Java Tutorial For Beginners](https://github.com/in28minutes/java-tutorial-for-beginners)
 
 ## Future Work
 
