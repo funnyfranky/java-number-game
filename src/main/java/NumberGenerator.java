@@ -1,4 +1,4 @@
-package src.game;
+package src.main.java;
 import java.util.Random;
 
 public class NumberGenerator {

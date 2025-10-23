@@ -1,4 +1,4 @@
-package src.game;
+package src.main.java;
 
 public class PlayerScore implements Comparable<PlayerScore> {
     private String name;

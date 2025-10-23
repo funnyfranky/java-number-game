@@ -1,4 +1,4 @@
-package src.game;
+package src.main.java;
 
 public class HintGenerator {
     public String getHint(int guess, int target) {

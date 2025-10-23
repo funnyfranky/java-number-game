@@ -1,8 +1,8 @@
-package src;
+package src.main;
 
 public class Main {
     public static void main(String[] args) {
-        src.game.Game game = new src.game.Game();
+        src.main.java.Game game = new src.main.java.Game();
         game.start();
     }
 }

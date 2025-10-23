@@ -1,10 +1,10 @@
-package src.game;
+package src.main.java;
 
 import java.util.Scanner;
 
 public class Game {
     private final Scanner scanner = new Scanner(System.in);
-    private final src.game.Scoreboard scoreboard = new Scoreboard();
+    private final src.main.java.Scoreboard scoreboard = new Scoreboard();
 
     private int target;
     private int attempts;
